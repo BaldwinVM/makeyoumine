@@ -9,7 +9,7 @@ $(document).ready(function(){
 function yes(){
 	Swal.fire({
   	  showConfirmButton: false,
-	  title: 'Lo sabía 😏 Gracias por aceptar, te amo 😊',
+	  title: 'Lo sabía 😏 Gracias, te amo 😊',
 	  width: 400,
 	  padding: '3em',
 	  background: '#fff url(images/background.jpg)',

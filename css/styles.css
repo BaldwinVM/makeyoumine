@@ -12,13 +12,14 @@
         text-align: center;
     }
     .options p {
-        background: #ffa02a;
+        background: #ec407a;
         display: initial;
         padding: 12px;
         color: #ffffff;
+        border: solid;
         border-radius: 5px;
-        border:solid;
-        border-color: black;
+        border-width: 2px;
+        border-color: #b4004e;
         font-weight: bold;
     }
     p.op1 {
