@@ -12,7 +12,7 @@ function yes(){
 	  title: 'Lo sabía 😏 pero lo siento, ya tengo enamorada y la amo :v 😊 ',
 	  width: 400,
 	  padding: '3em',
-	  background: '#fff url(images/background.jpg)',
+	  background: '#f70077 url(images/background.jpg)',
 	  backdrop: `
 	    rgba(0,0,123,0.4)
 	    url("images/yes.gif")
